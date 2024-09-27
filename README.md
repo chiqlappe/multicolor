@@ -1,5 +1,7 @@
 # マルチカラーボード説明書
 
+![image](https://github.com/chiqlappe/multicolor/blob/main/image/0704c.jpg)
+
 ## 概要
 
 - PC-8001で160x200ドット４色表示を可能にする拡張ボード
