@@ -1,11 +1,12 @@
 # マルチカラーボード説明書
 
-![image](https://github.com/chiqlappe/multicolor/blob/main/image/0704a.jpg)
+![画面イメージ](https://github.com/chiqlappe/multicolor/blob/main/image/0704a.jpg)
 
 ## 概要
 
 - PC-8001で160x200ドット４色表示を可能にする拡張ボード
 - プリンタポートでCRT信号を制御する
+- PCGが必要
 
 ## 定義
 
@@ -23,6 +24,8 @@
 - 2ビットの色情報をユーザー定義されたパレット情報と照合して4色分のRGB情報が作成され、それぞれ色信号としてモニタへ出力される
 - 1ユニットあたり4ドットを使用するので横方向の解像度は1/4となる
 - 縦方向の解像度は変化しない。
+
+![ボード本体](https://github.com/chiqlappe/multicolor/blob/main/image/IMG_2671.JPG)
 
 ## I/Oポート
 
