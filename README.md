@@ -1,6 +1,6 @@
 # マルチカラーボード説明書
 
-![image](https://github.com/chiqlappe/multicolor/blob/main/image/0704c.jpg)
+![image](https://github.com/chiqlappe/multicolor/blob/main/image/0704a.jpg)
 
 ## 概要
 
