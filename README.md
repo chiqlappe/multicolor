@@ -67,9 +67,14 @@ OUT &H10, 2 ^ 7 + 2 ^ 5
 OUT &H10, 2 ^ 5
 ```
 
-## デモプログラムについて
-jblang氏のサンプルプログラムをPC-8001用に移植
+## デモプログラム
 
-[plasma.asm](https://github.com/jblang/TMS9918A/blob/master/examples/plasma.asm)
+[plasma.wav](https://github.com/chiqlappe/multicolor/blob/main/plasma.wav) 
+jblang氏の[plasma.asm](https://github.com/jblang/TMS9918A/blob/master/examples/plasma.asm)をPC-8001用に移植したもの
+
+
+
+
+
 
     
